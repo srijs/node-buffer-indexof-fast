@@ -1,0 +1,32 @@
+{
+  "name": "buffer-indexof-fast",
+  "version": "0.0.0",
+  "description": "Fast indexOf for Buffer",
+  "main": "indexof.js",
+  "gypfile": true,
+  "dependencies": {
+    "nan": "*"
+  },
+  "scripts": {
+    "install": "node-gyp rebuild",
+    "test": "node test"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "buffer",
+    "indexof",
+    "search",
+    "native",
+    "fast"
+  ],
+  "author": "Sam Rijs",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/srijs/node-buffer-indexof-fast.git"
+  },
+  "bugs": {
+    "url": "https://github.com/srijs/node-buffer-indexof-fast/issues"
+  },
+  "homepage": "https://github.com/srijs/node-buffer-indexof-fast"
+}
