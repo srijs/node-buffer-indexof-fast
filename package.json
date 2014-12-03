@@ -1,6 +1,6 @@
 {
   "name": "buffer-indexof-fast",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Fast indexOf for Buffer",
   "main": "indexof.js",
   "gypfile": true,
